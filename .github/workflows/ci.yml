@@ -1,8 +1,8 @@
 name: Python CI
 
 on:
-  push:
-    branches: [ main,ci-setup ]
+  # push:
+  #   branches: [ main,ci-setup ]
   pull_request:
     branches: [ main ]
 
